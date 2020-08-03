@@ -1,0 +1,4 @@
+Initially, the time taken to respond by servers is very high. For 10 requests per second, 7319824.499999999
+nanoseconds is the average response time per request.
+This shows a slipght up-down variation, as number of requests increases, but in general, decreases, as can be seen from the graph.
+Eventually, this becomes a constant value of ~17000 nanoseconds per request.
